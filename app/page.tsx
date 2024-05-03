@@ -1,11 +1,8 @@
-import Image from "next/image";
-
-const  Home = () => {
-  return(
-    <div>
-      <h1>hello Tailwind</h1>
-    </div>
+import Header from "./_components/header";
+ const Home = () => {
+  return (  
+    <Header/>
   );
-};
-
-export default Home;
+ }
+  
+ export default Home;
