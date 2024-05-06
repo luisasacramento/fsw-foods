@@ -1,3 +1,3 @@
 ## ReactJs + NextJs + Tailwind + Prisma + PostgreSql
 
-2-54:00
+2-01:33:00
